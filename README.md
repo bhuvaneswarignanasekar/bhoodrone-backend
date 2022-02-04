@@ -31,22 +31,28 @@ What’s the better way to explain than with diagrams, so let me explain with fe
   </div>
   
 <h2>Hardwares Requirement</h2>
+
 - Tello DJI drone
 - Raspberry pi
 - Alexa/Alexa app in mobile
+
 <h2> Software/Technology requirements</h2>
+
 - Python3
 - OpenCV
 - Docker( I used linux container)
 - Alexa skills kit
 - AWS
+
 <h2>AWS</h2>
+
 - AWS Lambda
 - AWS Sagemaker
 - AWS Kinesis
 - AWS IoT core
 - AWS IoT topic
 - Also experimented with AWS EC2 but didn't used in final project
+
 <h2>Flow:</h2>
 
 - The User interacts with the Alexa to start the drone, such as
