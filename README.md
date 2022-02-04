@@ -43,6 +43,8 @@ What’s the better way to explain than with diagrams, so let me explain with fe
 - Docker( I used linux container)
 - Alexa skills kit
 - AWS
+- Message Broker
+- YOLO
 
 <h2>AWS</h2>
 
@@ -99,8 +101,11 @@ What’s the better way to explain than with diagrams, so let me explain with fe
 - The Drone controller sends the command to the drone
 
 <h2>DEMO:  </h2>
+
 [click here to see the demo](http://bhoo-portfolio.s3-website-us-east-1.amazonaws.com/projectDemo)
 
 <h2>PRESENTATION:</h2>
 
 [click here to see the presentation](https://docs.google.com/presentation/d/1PARjfrdABAXJw3SP6z6qdkQEGS-dIR5-xWaPVJe9MSY/edit#slide=id.g9a2edfe9a3_1_9)
+
+REFEREENCE:
