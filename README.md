@@ -6,13 +6,42 @@
     <img src="architecture/drone.png" alt="drone" width="400" height="400">
   </a>
   </div>
- The system is an IoT-based home automation/personal assistant. The goal of the project is to make the drone search the enclosed area for an object that is requested
+  
+<h2> Quick Glance</h2>
 
-<h2>Features:</h2>
+The system is an IoT-based home automation/personal assistant. The goal of the project is to make the drone search the enclosed area for an object that is requested
+
+<h3>Features:</h3>
 
 - completely voice activated
 - Cloud-native
 - Raspberry-Pi as a server
+
+<h3>Hardwares Requirement</h3>
+
+- Tello DJI drone
+- Raspberry pi
+- Alexa/Alexa app in mobile
+
+<h3> Software/Technology requirements</h3>
+
+- Python3
+- OpenCV
+- Docker( I used linux container)
+- Alexa skills kit
+- AWS
+- Message Broker
+- YOLO
+
+<h3>AWS</h3>
+
+- AWS Lambda
+- AWS Sagemaker
+- AWS Kinesis
+- AWS IoT core
+- AWS IoT topic
+- Also experimented with AWS EC2 but didn't used in final project
+
 
 <h4>code: https://github.com/bhuvaneswarignanasekar/bhoodrone-backend </h4>
 
@@ -30,30 +59,7 @@ What’s the better way to explain than with diagrams, so let me explain with fe
   </a>
   </div>
   
-<h2>Hardwares Requirement</h2>
 
-- Tello DJI drone
-- Raspberry pi
-- Alexa/Alexa app in mobile
-
-<h2> Software/Technology requirements</h2>
-
-- Python3
-- OpenCV
-- Docker( I used linux container)
-- Alexa skills kit
-- AWS
-- Message Broker
-- YOLO
-
-<h2>AWS</h2>
-
-- AWS Lambda
-- AWS Sagemaker
-- AWS Kinesis
-- AWS IoT core
-- AWS IoT topic
-- Also experimented with AWS EC2 but didn't used in final project
 
 <h2>Flow:</h2>
 
